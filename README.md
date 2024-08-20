@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Fuji-vanilli.Fuji-vanilli" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Fuji+Vanilli!;" />
 </h1>
 
 <h3 align="center">Full-stack developer specializing in Java and Angular, passionate about building scalable web applications and delivering efficient solutions</h3>
@@ -65,7 +65,9 @@
 </div>
 
 <br/><br/>
-
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Good+luck!+👋;" />
+</h3>
 <hr/>
 
 <br/>
